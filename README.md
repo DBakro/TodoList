@@ -1,2 +1,2 @@
 # TodoList
-Test react project
+TodoList test project
